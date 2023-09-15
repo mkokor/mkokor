@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **mkokor/mkokor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Languages and tools
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,js,html,css,dotnet,nodejs,express,react,mongodb,mysql,git)](https://skillicons.dev)
