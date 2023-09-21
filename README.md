@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Languages and tools
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,js,html,css,dotnet,nodejs,express,react,mongodb,mysql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,js,html,css,dotnet,nodejs,express,react,mongodb,mysql,git)](https://skillicons.dev)
