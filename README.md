@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# GitHub Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mkokor&theme=dark&background=000000)](https://git.io/streak-stats)
 
 # Languages and tools
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,js,html,css,dotnet,nodejs,express,react,mongodb,mysql,git)](https://skillicons.dev)
